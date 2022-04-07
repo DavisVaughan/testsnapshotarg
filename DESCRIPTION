@@ -14,3 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     rlang (>= 1.0.0)
+URL: https://github.com/DavisVaughan/testsnapshotarg
+BugReports: https://github.com/DavisVaughan/testsnapshotarg/issues
